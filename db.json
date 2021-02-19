@@ -1,29 +1,6 @@
 {
   "tutors":[
     {
-      "id": 3348290,
-      "avatar": "https://placebeard.it/200x200",
-      "name": "علی",
-      "family": "احمدی",
-      "scoresCount": 422,
-      "lessons": 87,
-      "shortDescription": "Hello, Roberta! You have 8 unread messages. Let's have a long message. More Long. Is thet enough?",
-      "nativeLanguage": "fa",
-      "perHour": 41
-    },
-    {
-      "id": 7504983,
-      "avatar": "https://placebeard.it/200x200",
-      "name": "Krystal",
-      "family": "Mcmillan",
-      "score": 4.0967,
-      "scoresCount": 937,
-      "lessons": 76,
-      "shortDescription": "Hello, Krystal! You have 5 unread messages. Let's have a long message. More Long. Is thet enough?",
-      "nativeLanguage": "fa",
-      "perHour": 22
-    },
-    {
       "id": 5267304,
       "avatar": "https://placebeard.it/200x200",
       "name": "Graciela",
@@ -46,42 +23,6 @@
       "shortDescription": "Hello, Katherine! You have 2 unread messages. Let's have a long message. More Long. Is thet enough?",
       "nativeLanguage": "fa",
       "perHour": 50
-    },
-    {
-      "id": 6884238,
-      "avatar": "https://placebeard.it/200x200",
-      "name": "Ollie",
-      "family": "Frost",
-      "score": 1.4103,
-      "scoresCount": 68,
-      "lessons": 77,
-      "shortDescription": "Hello, Ollie! You have 10 unread messages. Let's have a long message. More Long. Is thet enough?",
-      "nativeLanguage": "fa",
-      "perHour": 11
-    },
-    {
-      "id": 9389864,
-      "avatar": "https://placebeard.it/200x200",
-      "name": "Mathews",
-      "family": "Munoz",
-      "score": 3.5618,
-      "scoresCount": 645,
-      "lessons": 82,
-      "shortDescription": "Hello, Mathews! You have 3 unread messages. Let's have a long message. More Long. Is thet enough?",
-      "nativeLanguage": "fa",
-      "perHour": 43
-    },
-    {
-      "id": 2042457,
-      "avatar": "https://placebeard.it/200x200",
-      "name": "Ernestine",
-      "family": "Dale",
-      "score": 3.395,
-      "scoresCount": 421,
-      "lessons": 9,
-      "shortDescription": "Hello, Ernestine! You have 3 unread messages. Let's have a long message. More Long. Is thet enough?",
-      "nativeLanguage": "fa",
-      "perHour": 30
     },
  ]
 }
